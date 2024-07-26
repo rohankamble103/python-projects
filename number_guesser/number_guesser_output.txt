@@ -1,0 +1,23 @@
+Type any number you want: 10
+Guess the number:- 5
+You are below the number
+Guess the number:- 4
+You are below the number
+Guess the number:- 3
+You are below the number
+Guess the number:- 
+Please enter a digit next time:- 
+Guess the number:- 2
+You are below the number
+Guess the number:- 1
+You are below the number
+Guess the number:- df
+Please enter a digit next time:- 
+Guess the number:- 9
+You are above the number
+Guess the number:- 8
+You are above the number
+Guess the number:- 7
+You are above the number
+Guess the number:- 6
+You got it in  11 guesses
